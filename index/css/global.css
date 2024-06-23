@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+body, html {
+	font-family: 'Roboto', sans-serif;
+	background: #FFF; 
+	margin: 0 auto;                              
+	font-size: 16px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.container h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 5.3em;
+  color: #141486;
+  text-align: left;
+}	
+
+.container p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2.7em;
+  color: #141486;
+  text-align: left;
+}	
+  .form-check {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2.3em;
+  color: #141486;
+  text-align: left;
+}	
+.form-select {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2.3em;
+  color: #141486;
+  text-align: left;
+	  background: #dbccff;
+}

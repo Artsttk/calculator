@@ -1,0 +1,10 @@
+[20:50, 20.06.2024] Isabelle: Hex Codes...
+[20:50, 20.06.2024] Isabelle: Dark Blue/Purple = #141486
+[20:51, 20.06.2024] Isabelle: Medium Purple = #9383ff
+[20:52, 20.06.2024] Isabelle: Pale Purple = #dbccff
+[20:52, 20.06.2024] Isabelle: Yellow = ffc73e
+[20:53, 20.06.2024] Isabelle: You can use the Dark Blue/Purple for the text
+[20:53, 20.06.2024] Isabelle: You can use the Pale Purple for the dropdown button
+[20:53, 20.06.2024] Isabelle: You can use the Yellow for the Calculate Button
+[20:54, 20.06.2024] Isabelle: You can use the Medium Purple for the radio buttons and we will use the Medium Purple for the value slider as well
+[20:56, 20.06.2024] Isabelle: I will experiment with the Pale Purple for the value slider (the base colour of the slider) or choose a light grey: #b4b4b4
